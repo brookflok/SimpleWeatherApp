@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Open Weather Application Test</string>
+    <string name="menu_search_title">Traži</string>
+    <string name="menu_search_hint">Napiši ime grada ovde</string>
+    <string name="empty_state_message">Ili niste napravili search ili imate problema sa netom</string>
+    <string name="city_not_found_toast_message">Grad Nije pronađen</string>
+    <string name="connection_error_message">Imate greške sa konekcijom</string>
+    <string name="missing_api_key_message">Api Key nije dodan</string>
+    <string name="weather_icon_description">Ikonice Vremena</string>
+    <string name="metric">Metric</string>
+    <string name="humidty">Vlažnost</string>
+    <string name="wind">Vjetar</string>
+    <string name="max_temperature">Max Temp</string>
+    <string name="favorite">Favoriti</string>
+    <string name="status">Status</string>
+</resources>

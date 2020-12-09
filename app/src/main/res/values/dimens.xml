@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="floatingbuttonmargin">16dp</dimen>
+    <dimen name="iconheight">80dp</dimen>
+    <dimen name="materialCardCorenrRadius">4dp</dimen>
+    <dimen name="materialCardMargin">5dp</dimen>
+    <dimen name="materialCardMarginTop">10dp</dimen>
+    <dimen name="materialCardMarginBottom">16dp</dimen>
+    <dimen name="materialCardHeight">180dp</dimen>
+    <dimen name="LinearLayoutMargin">10dp</dimen>
+    <dimen name="weatherStatusTextSize">24sp</dimen>
+    <dimen name="degreeTextSize">24sp</dimen>
+    <dimen name="cityNameTextSize">36sp</dimen>
+    <dimen name="mainForecastLinearLayoutPadding">8dp</dimen>
+    <dimen name="mainMaterialCardViewCornerRadius">4dp</dimen>
+    <dimen name="mainMaterialCardViewMarginTop">10dp</dimen>
+    <dimen name="mainMaterialCardViewMarginBottom">16dp</dimen>
+    <dimen name="mainMaterialCardViewMargin">5dp</dimen>
+</resources>
